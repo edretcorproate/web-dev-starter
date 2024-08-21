@@ -2,23 +2,18 @@
 
 ## Overview
 
-TODO: Write a project description
+Learned how to run, debug, and test my javascript code. This website can be run with live preview through VSCode. I am currently coding on windows, but should be the same in Mac OS or Linux in terms of execution, debugging, and running.
+
+Reference for myself:
+
+Using QUnit: test/test.html for debugging OR debugging through visual studio.
+
+git add -A
+
+git commit -m "Your message"
+
+git push -u origin master
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+Teachers M2.1 video helped me with all of the project.

@@ -6,7 +6,8 @@ window.onload = loaded;
 function loaded() {
     // Assign to a variable so we can set a breakpoint in the debugger!
     const hello = sayHello();
-    console.log(hello);
+    const number = addNum();
+    console.log(hello + number);
 }
 
 /**
@@ -15,4 +16,12 @@ function loaded() {
  */
 export function sayHello() {
     return 'hello';
+}
+
+export function addNum() {
+    var num = 1;
+    var numTwo = 2;
+    var add = num + numTwo;
+
+    return add;
 }
