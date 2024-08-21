@@ -14,6 +14,13 @@ git commit -m "Your message"
 
 git push -u origin master
 
+For:
+error: failed to push some refs to 'github.com:edretcorproate/web-dev-starter.git'
+
+
+git pull --rebase
+git push
+
 ## Sources and Credits
 
 Teachers M2.1 video helped me with all of the project.
